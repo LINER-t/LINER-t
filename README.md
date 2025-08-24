@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=capsule%20render&fontSize=45)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 ![minani](https://64.media.tumblr.com/16641ac5c4d0fe6d71e285badbda1927/767143b9ad3fecec-88/s400x600/f3126b9f46b6f471b950770a744c9a3863356929.gif)
 
