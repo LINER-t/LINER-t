@@ -36,7 +36,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=LINER-t&custom_title=LINER-t's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://camo.githubusercontent.com/a46643dfb44c245627ffa1281ca2c5f99c406a3a2223f254af9f6d0c8b2de030/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f31363634316163356334643066653664373165323835626164626461313932372f373637313433623961643366656365632d38382f73343030783630302f663331323662396634366236663437316239353037373061373434633961333836333335363932392e676966"/> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LINER-t&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
     </div> 
     </div>
