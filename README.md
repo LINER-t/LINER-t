@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&fontAlign=100&descAlign=97&descAlignY=57" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&descAlign=97&descAlignY=57" />
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
